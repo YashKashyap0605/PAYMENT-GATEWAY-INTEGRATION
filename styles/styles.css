@@ -1,0 +1,61 @@
+
+/************************NAVBAR***********************************/
+.navbar
+{
+    background-color: #0A1931;
+}
+#item
+{
+    padding-right: 1.5rem;
+}
+/*****************FIRST BLUE DIV**********************************/
+#main
+{
+    width: 100vw;
+    height: 30rem;
+}
+ .donate
+ {
+    padding-top: 4rem;
+     padding-left: 4rem;
+     padding-bottom: 3rem;
+     background-color: #DBE6FD;
+ }
+#tag
+{   
+    font-size: 3rem;
+}
+#desc
+{
+    padding-top: 0.5rem;
+}
+/*********************SECOND WHITE BLOCK****************************/
+.second
+{
+    padding-top: 0.5rem;
+    text-align: center;
+}
+/*********************FOOTER SECTION*********************************/
+.footer
+{
+    padding-top: 0.6rem;
+    height:5rem;
+    background-color: #0A1931;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+   
+}
+.footer-text
+{
+    font-weight: lighter;
+    font-size: 0.8rem;
+}
+.icon
+{
+    font-size: 1rem;
+    padding-left: 2rem;
+}
